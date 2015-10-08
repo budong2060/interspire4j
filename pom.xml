@@ -10,7 +10,7 @@
 
 	<scm>
 		<connection>scm:git:https://github.com/Bankmonitor/interspire4j.git</connection>
-		<developerConnection>scm:git:ssh://github.com/Bankmonitor/interspire4j.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:Bankmonitor/interspire4j.git</developerConnection>
 		<url>https://github.com/Bankmonitor/interspire4j</url>
 		<tag>HEAD</tag>
 	</scm>
